@@ -15,3 +15,7 @@
 ## Stope the keylogger.exe
 1. To stop the keylogger open task manager.
 2. find the process and End task.
+
+<br>
+**_THANK YOU_**<br>
+**_- Hari Mypala_**
